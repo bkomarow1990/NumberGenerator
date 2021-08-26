@@ -1,0 +1,60 @@
+﻿<Window x:Class="SystemProgramming_HomeWork.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SystemProgramming_HomeWork"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Closed="Window_Closed">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="25"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <DockPanel LastChildFill="False">
+                <Label>Left num:</Label>
+                <TextBox Name="leftNumTxtBox" Width="100"></TextBox>
+                <Label>Right num:</Label>
+                <TextBox Name="rightNumTxtBox" Width="100" Margin="0,0,10,0"></TextBox>
+                <Button x:Name="startBtn" Click="startBtn_Click" FontSize="7">START FIBONACHI</Button>
+            </DockPanel>
+            <DockPanel LastChildFill="False" Grid.Column="1">
+                <Label>Left num:</Label>
+                <TextBox Name="leftNumTxtBox2" Width="100"></TextBox>
+                <Label>Right num:</Label>
+                <TextBox Name="rightNumTxtBox2" Width="100" Margin="0,0,10,0"></TextBox>
+                <Button x:Name="startBtn2" Click="startBtn2_Click" FontSize="7">START SIMPLE</Button>
+            </DockPanel>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <ListBox x:Name="numsListBox">
+            </ListBox>
+            <ListBox x:Name="numsListBox2" Grid.Column="1">
+
+            </ListBox>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <!--<ComboBox Name="threadComboBox">
+                <ComboBoxItem>Simple Nums</ComboBoxItem>
+                <ComboBoxItem>Fibonachi Nums</ComboBoxItem>
+            </ComboBox>-->
+            <Button Grid.Column="0" Name="pauseBtn" Click="pauseBtn_Click">PAUSE</Button>
+            <Button Grid.Column="1" Name="pauseBtn2" Click="pauseBtn2_Click">PAUSE</Button>
+        </Grid>
+    </Grid>
+</Window>

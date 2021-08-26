@@ -1,0 +1,15 @@
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\bin\Debug\SystemProgramming_HomeWork.exe.config
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\bin\Debug\SystemProgramming_HomeWork.exe
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\bin\Debug\SystemProgramming_HomeWork.pdb
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\obj\Debug\SystemProgramming_HomeWork.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\obj\Debug\App.g.cs
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\obj\Debug\SystemProgramming_HomeWork_MarkupCompile.cache
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\obj\Debug\SystemProgramming_HomeWork_MarkupCompile.lref
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\obj\Debug\MainWindow.baml
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\obj\Debug\SystemProgramming_HomeWork.g.resources
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\obj\Debug\SystemProgramming_HomeWork.Properties.Resources.resources
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\obj\Debug\SystemProgramming_HomeWork.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\obj\Debug\SystemProgramming_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\obj\Debug\SystemProgramming_HomeWork.exe
+C:\Users\Igor\source\repos\SystemProgramming_HomeWork\SystemProgramming_HomeWork\obj\Debug\SystemProgramming_HomeWork.pdb
